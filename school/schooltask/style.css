@@ -1,0 +1,247 @@
+.text-center
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:#fff;
+    font-weight: 700;
+    text-align:right;
+}
+.col-lg-6 .h4 .h1{
+    text-decoration: white;
+}
+.text-primary
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: white;
+    cursor:pointer;
+    padding-right:10%;
+    border-width: 10%;
+    
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.btn-secondary{
+    position:relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    background-color: #00394f;
+    border-color: #00394f;
+}
+ .img-fluid 
+{
+    padding-right:10%;
+    vertical-align:right;
+    border-style: none;
+    font-size:1rem;
+    border-radius: 30px;
+    border:1px solid transparent;
+    max-width: 100%;
+    height: auto;
+    vertical-align:right;
+    border-style: none;
+}
+.ul{
+    text-decoration-color: black;
+    text-shadow: black;
+}
+
+.navbar .navbar-nav .nav-item a{
+    
+    padding:10px 15px;
+    padding-right:25px;
+    font-weight: 700;
+    
+}
+
+
+.container-fluid{
+    padding: 5px;
+   font-style: normal;   
+}
+.container-fluid .row .h1 .p{
+    font-family:"nunito",sans-serif ;
+    text-align: left;
+}
+.text-lg-left{
+    text-align:left;
+}
+.p{
+    margin-top:0 ;
+}
+.navbar .navbar-brand{
+    color:#17a2b8;
+}
+.text-lg-right{
+    text-align: right;
+    border-style:none;
+}
+.mb-4{
+    flood-color:#17a2b8;
+    font-family: "nunito",sans-serif;
+}
+.section-title {
+    position: relative;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #17a2b8;
+    padding-left:1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section-title .pr-2 .mb-4{
+    text-align: justify;
+}
+.text-box{
+    color:#fff;
+}
+.col-lg-6{
+    color:#fff;
+}
+.text-box h1{
+    font-size:42px;
+
+}
+.text-box p{
+    font-size:16px;
+}
+.list{
+    font-family:"nunito",sans-serif;
+}
+.image .img-fluid
+{
+    
+    position:relative;
+    width: 50%;
+    padding-right: 15px;
+    height:fit-content;
+    float:right;
+    margin-left: 10px;
+    max-width:400px;
+
+}
+.px-4{
+padding-left: 1.5rem;
+padding-right: 1.5rem;
+color: #fff;
+background-color: #17a2b8;
+border-color: #17a2b8;
+}
+.bg-primary h4 p{
+
+    font-style:normal;
+    color:#fff;
+
+}
+.navbar-brand{
+    font-weight: 700;
+    color:#01506e;
+   
+}
+.col-md-8{
+    position: relative;
+    letter-spacing: 1px;
+    padding-left:2px;
+    border-bottom: 1px solid #dee2e6;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.ul .school-list
+{
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+   
+}
+.container-fluid .row .px-2 .col-md-8 .mb-4{
+    position: relative;
+    background: #ffffff;
+    padding:5vw 8vw 0 8vw;
+    text-align:center;
+}
+.col-md-8 h1{
+    text-align:center;
+    font-family: "handlee", cursive;
+}
+.section-title .pr-2 .para{
+    padding-right:0.9rem;
+    position:relative ;
+    background: #ffffff;
+    letter-spacing: 1px;
+    font-family: "nunito",sans-serif;
+    display: block;
+}
+.section-title .pr-2{
+    padding-bottom: 10%;
+}
+.sports-image1{
+    width:90%;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(236, 230, 230, 0.582) 0px 5;
+    display: block;
+    text-align:justify;
+    float: right;
+    margin:0 0 1em;
+}
+.section-title .pr-2{
+    padding-bottom: 10%;
+    position: relative;
+}
+.col-lg-7 .section-title .pr-2{
+margin-bottom: auto;
+
+}
+.row .pl-4{
+    font-family:"nunito",sans-serif;
+    
+}
+.m-0{
+    color:#666666;
+}
+.col-lg-4 .pl-4{
+    font-family: "nunito",sans-serif;
+    color:black;
+    
+}
+.col-lg-7 .pr-2 .para{
+    text-align:right;
+
+}
+.sports-container {
+    box-shadow:rgba(236, 230, 230, 0.582);
+    box-sizing: border-box;
+    color: #413f3f;
+    text-align: left;
+}
+.mb-4{
+    color: black;
+}
+.sports-container2{
+    box-shadow: #666666;
+}
+.img-fluid .portfolio-btn{
+    width:100%;
+    height:auto;
+   
+}
+.row{
+  justify-content:right;
+  margin-top:8rem;
+  margin-bottom: 1rem;
+}
+.portfolio-btn{
+    opacity: 0;
+    transition: .5s;
+}
+.testimonial-item .p-4{
+    padding: 1.5rem;
+    font-family: "Nunito", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #666666;
+    text-align: left;
+    display: block;
+}
